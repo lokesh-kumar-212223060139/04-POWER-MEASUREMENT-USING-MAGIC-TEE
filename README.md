@@ -84,3 +84,4 @@ Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 •	Observation should be taken properly.
 
 **Result:**
+thus the isolation between E and Harms of the magic tee is found and is experimented using the given tools
